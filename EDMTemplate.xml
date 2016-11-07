@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+    xmlns:oai="http://www.openarchives.org/OAI/2.0"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:ore="http://openarchives.org/ore/terms"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    > 
+    <edm:ProvidedCHO rdf:about="">
+        <dc:title></dc:title>
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dcterms:spatial></dcterms:spatial>
+        <dc:temporal></dc:temporal>
+        <dc:type></dc:type> 
+        <dc:medium></dc:medium>
+        <dc:extent></dc:extent>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about=""></edm:WebResource>
+    <edm:Place rdf:about=""></edm:Place>
+    <dc:creator></dc:creator>
+    <dc:creator></dc:creator>
+    <dc:creator></dc:creator>
+    <dc:format></dc:format>
+    <dc:rights></dc:rights>
+    <dc:note></dc:note>
+    <skos:concept rdf:about="">
+        <skos:preLabel xml:lang="en"></skos:preLabel></skos:concept>
+    <skos:concept rdf:about="">
+        <skos:preLabel xml:lang="en"></skos:preLabel></skos:concept>
+    <skos:concept rdf:about="">
+        <skos:preLabel xml:lang="en"></skos:preLabel></skos:concept>
+    <skos:concept rdf:about="">
+        <skos:preLabel xml:lang="en"></skos:preLabel></skos:concept>
+    <skos:concept rdf:about="">
+        <skos:preLabel xml:lang="en"></skos:preLabel></skos:concept>
+    <skos:concept rdf:about="">
+        <skos:preLabel xml:lang="en"></skos:preLabel></skos:concept>
+    <skos:concept rdf:about="">
+        <skos:preLabel xml:lang="en"></skos:preLabel></skos:concept>
+    <skos:concept rdf:about="">
+        <skos:preLabel xml:lang="en"></skos:preLabel></skos:concept>
+    
+    <ore:Aggregation rdf:about="">
+        <edm:agregatedCHO rdf:resource=""></edm:agregatedCHO>
+        <edm:dataProvider></edm:dataProvider>
+        <edm:hasView rdf:resource=""></edm:hasView>
+    </ore:Aggregation>
+    
+    
+</rdf:RDF>
+
