@@ -12,22 +12,21 @@
     > 
     <edm:ProvidedCHO rdf:about="">
         <dc:title></dc:title>
-        <dc:title></dc:title>
+        <dc:alternative></dc:alternative>
         <dc:description></dc:description>
         <dcterms:spatial></dcterms:spatial>
-        <dc:temporal></dc:temporal>
+        <dcterms:temporal></dcterms:temporal>
         <dc:type></dc:type> 
         <dc:medium></dc:medium>
         <dc:extent></dc:extent>
+        <edm:currdntLocation></edm:currdntLocation>
     </edm:ProvidedCHO>
     <edm:WebResource rdf:about=""></edm:WebResource>
     <edm:Place rdf:about=""></edm:Place>
     <dc:creator></dc:creator>
-    <dc:creator></dc:creator>
-    <dc:creator></dc:creator>
+    <dc:contributor></dc:contributor>
     <dc:format></dc:format>
     <dc:rights></dc:rights>
-    <dc:note></dc:note>
     <skos:concept rdf:about="">
         <skos:preLabel xml:lang="en"></skos:preLabel></skos:concept>
     <skos:concept rdf:about="">
@@ -47,10 +46,14 @@
     
     <ore:Aggregation rdf:about="">
         <edm:agregatedCHO rdf:resource=""></edm:agregatedCHO>
-        <edm:dataProvider></edm:dataProvider>
+        <edm:provider></edm:provider>
+        <edm:dataprovider></edm:dataprovider>
+        <edm:isShownBy></edm:isShownBy>
+        <edm:isShownAt rdf:resource=""></edm:isShownAt>
         <edm:hasView rdf:resource=""></edm:hasView>
+        <edm:rights rdf:resource=""></edm:rights>
     </ore:Aggregation>
-    
+    <edm:Agent></edm:Agent>
     
 </rdf:RDF>
 
