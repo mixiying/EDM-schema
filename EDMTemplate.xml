@@ -16,17 +16,21 @@
         <dc:description></dc:description>
         <dcterms:spatial></dcterms:spatial>
         <dcterms:temporal></dcterms:temporal>
+        <dc:language></dc:language>
         <dc:type></dc:type> 
         <dc:medium></dc:medium>
         <dc:extent></dc:extent>
-        <edm:currdntLocation></edm:currdntLocation>
+        <edm:currdntLocation></edm:currdntLocation> 
+        <edm:HasType></edm:HasType>
     </edm:ProvidedCHO>
     <edm:WebResource rdf:about=""></edm:WebResource>
-    <edm:Place rdf:about=""></edm:Place>
     <dc:creator></dc:creator>
     <dc:contributor></dc:contributor>
     <dc:format></dc:format>
     <dc:rights></dc:rights>
+    <dcterms:issued></dcterms:issued>
+    <dc:date></dc:date>
+    <edm:Type></edm:Type>
     <skos:concept rdf:about="">
         <skos:preLabel xml:lang="en"></skos:preLabel></skos:concept>
     <skos:concept rdf:about="">
@@ -43,6 +47,13 @@
         <skos:preLabel xml:lang="en"></skos:preLabel></skos:concept>
     <skos:concept rdf:about="">
         <skos:preLabel xml:lang="en"></skos:preLabel></skos:concept>
+    <edm:Agent rdf:about="">
+        <skos:prefLabel xml:lang="en"></skos:prefLabel>
+    </edm:Agent>
+    <edm:Place rdf:about="">
+        <skos:prefLabel xml:lang="en"></skos:prefLabel>
+    </edm:Place>
+    <edm:TimeSpan rdf:about=""></edm:TimeSpan>
     
     <ore:Aggregation rdf:about="">
         <edm:agregatedCHO rdf:resource=""></edm:agregatedCHO>
